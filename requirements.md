@@ -1,3 +1,4 @@
+##requriments document 
 # VaakSambhaasha — AI-Powered Indian Sign Language Translator
 ## Requirements Document | AI for Bharat Hackathon 2025
 
