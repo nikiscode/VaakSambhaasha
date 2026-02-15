@@ -1,5 +1,3 @@
-Here is your README file content written in a clean, powerful narrative format (no bullet points), ready to copy and paste into GitHub:
-
 VaakSambhaasha — AI-Powered Indian Sign Language Translator
 Har Awaaz Sunai De — Every Voice Must Be Heard
 
