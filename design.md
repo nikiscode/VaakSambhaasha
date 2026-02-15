@@ -1,3 +1,4 @@
+//design document
 VaakSambhaasha — AI-Powered Indian Sign Language Translator
 Design Document | AI for Bharat Hackathon 2025
 "Good design is invisible. Great design changes lives."
