@@ -1,8 +1,6 @@
 VaakSambhaasha — AI-Powered Indian Sign Language Translator
 Har Awaaz Sunai De — Every Voice Must Be Heard
-
 What is VaakSambhaasha?
-
 VaakSambhaasha (वाक्संभाषा) is a free, AI-powered mobile application that enables real-time, bidirectional translation between Indian Sign Language (ISL) and spoken or written Hindi and English.
 India is home to more than 63 lakh (6.3 million) deaf and mute citizens who face daily communication barriers in hospitals, schools, government offices, workplaces, and emergency situations. Despite rapid technological progress, there is no widely available, ISL-specific AI communication solution built for Bharat. VaakSambhaasha is designed to change that reality.
 This application bridges the communication gap between deaf and hearing communities using on-device artificial intelligence, ensuring accessibility, affordability, and offline reliability.
