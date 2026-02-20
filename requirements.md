@@ -1,12 +1,7 @@
 ##requriments document 
-
 # VaakSambhaasha — AI-Powered Indian Sign Language Translator
 ## Requirements Document | AI for Bharat Hackathon 2025
-
-> *"63 lakh Indians are silent — not because they have nothing to say, but because no one built them a voice. Until now."*
-
----
-
+ *"63 lakh Indians are silent — not because they have nothing to say, but because no one built them a voice. Until now."*
 ## 1. Executive Summary
 
 **Project Name:** VaakSambhaasha (वाक्संभाषा)
