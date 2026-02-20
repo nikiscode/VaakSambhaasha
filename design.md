@@ -1,18 +1,12 @@
 //Design document
-
 VaakSambhaasha — AI-Powered Indian Sign Language Translator
 Design Document | AI for Bharat Hackathon 2025
 "Good design is invisible. Great design changes lives."
-
 1. Design Philosophy
 VaakSambhaasha is built on three core design principles:
-
 1. Offline First — A deaf person in a Bihar village deserves the same experience as someone in Bangalore with 5G. Every core feature works without internet.
-
 2. Device First — 80% of our users will own phones costing ₹6,000–₹15,000. We optimize for them, not flagship devices.
-
 3. Dignity First — Every design decision respects the intelligence and independence of our users. No condescending UI. No assumptions. Pure empowerment.
-
 2. System Architecture
 2.1 High-Level Architecture
 ┌──────────────────────────────────────────────────────┐
