@@ -1,13 +1,20 @@
 //Design document
+
 VaakSambhaasha — AI-Powered Indian Sign Language Translator
+
 Design Document | AI for Bharat Hackathon 2025
+
 "Good design is invisible. Great design changes lives."
+
 1. Design Philosophy
 VaakSambhaasha is built on three core design principles:
-1. Offline First — A deaf person in a Bihar village deserves the same experience as someone in Bangalore with 5G. Every core feature works without internet.
-2. Device First — 80% of our users will own phones costing ₹6,000–₹15,000. We optimize for them, not flagship devices.
+
+1. Offline First — A deaf person in a Bihar village deserves the same experience as someone in Bangalore with 5G. Every core feature works without internet.2. Device First — 80% of our users will own phones costing ₹6,000–₹15,000. We optimize for them, not flagship devices.
+
 3. Dignity First — Every design decision respects the intelligence and independence of our users. No condescending UI. No assumptions. Pure empowerment.
+
 2. System Architecture
+
 2.1 High-Level Architecture
 ┌──────────────────────────────────────────────────────┐
 │                   MOBILE APP (Flutter)               │
@@ -49,7 +56,9 @@ On-device AI = offline capability + privacy (no hand data leaves the phone)
 AWS cloud = enhanced features when online (better speech quality, model updates)
 Flutter = one codebase, Android + iOS (faster development, consistent experience)
 Serverless Lambda = zero server management (auto-scales, cost-efficient)
+
 3. AI/ML Design
+
 3.1 ISL Recognition Pipeline
 CAMERA FRAME (30 FPS)
         │
@@ -142,6 +151,7 @@ Key Design Decisions:
 Why LSTM? ISL signs involve movement, not just static positions. LSTM captures the temporal sequence of hand motion — critical for distinguishing similar signs.
 Why MediaPipe? Purpose-built for mobile, runs at 30 FPS on budget Android, no GPU required, open-source.
 Why Int8 quantization? Reduces model from 45 MB to 12 MB with minimal accuracy loss — essential for affordable phone storage.
+
 4. Voice/Text → ISL Pipeline
 USER INPUT
     │
@@ -275,6 +285,7 @@ Emergency SOS Screen:
 ║                                     ║
 ║  [TAP ANY PHRASE TO SPEAK ALOUD]   ║
 ╚═════════════════════════════════════╝
+
 5.3 Design System
 Color Palette:
 
