@@ -1,4 +1,5 @@
 //Readme File
+
 VaakSambhaasha — AI-Powered Indian Sign Language Translator
 Har Awaaz Sunai De — Every Voice Must Be Heard
 What is VaakSambhaasha?
